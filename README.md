@@ -6,7 +6,7 @@
 ### App Walk-though
 
 
-<img src="http://g.recordit.co/R1UsVb5tUi.gif" width=300><br>
+<img src="http://g.recordit.co/R1UsVb5tUi.gif" width=400><br>
 
 
 ### Required User Stories
